@@ -1,35 +1,35 @@
 {
   "1": {
     "id": 1,
-    "featured": false,
-    "name": "Mete Atamel",
-    "title": "Developer Advocate",
+    "featured": true,
+    "name": "Mandy Waite",
+    "title": "",
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
-    "country": "London, United Kingdom",
-    "photoUrl": "/images/people/mete_atamel.jpg",
-    "shortBio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
-    "bio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+    "photoUrl": "/images/people/mandy.jpg",
+    "shortBio": "",
+    "bio": "",
     "tags": [
-      "Cloud",
-      "Compute Engine",
-      "gRPC"
+      "Cloud"
+    ],
+    "badges": [
+
     ],
     "socials": [
       {
-        "icon": "linkedin",
-        "name": "LinkedIn",
-        "link": "https://www.linkedin.com/in/meteatamel/"
+        "icon": "website",
+        "name": "AboutMe",
+        "link": "https://about.me/mandywaite/"
       },
       {
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/meteatamel/"
+        "link": "https://twitter.com/tekgrrl/"
       },
       {
-        "icon": "github",
-        "name": "GitHub",
-        "link": "https://github.com/meteatamel/"
+        "icon": "gplus",
+        "name": "Google+",
+        "link": "https://plus.google.com/+MandyWaite/"
       }
     ]
   },
@@ -37,21 +37,34 @@
     "id": 2,
     "featured": false,
     "name": "Boris Farber",
-    "title": "",
-    "company": "",
+    "title": "Developer Advocate",
+    "company": "Google",
     "companyLogo": "/images/logos/google.svg",
-    "country": "London, United Kingdom",
-    "photoUrl": "/images/people/mete_atamel.jpg",
-    "shortBio": "",
-    "bio": "",
+    "photoUrl": "/images/people/boris.jpg",
+    "shortBio": "Software Engineer and Speaker. Focusing on Android performance especially binary analysis. By sharing knowledge on Android APIs and patterns, I help developers to succeed.",
+    "bio": "Software Engineer and Speaker. Focusing on Android performance especially binary analysis. By sharing knowledge on Android APIs and patterns, I help developers to succeed.\n\nI am the author of ClassyShark, a Java/Android executables browser. ClassyShark helps in analysing performance and dependencies problems in Android apps. Find more at www.api-solutions.com.",
     "tags": [
-      ""
+      "Web",
+      "Android"
+    ],
+    "badges": [
+
     ],
     "socials": [
       {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://www.api-solutions.com/"
+      },
+      {
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/meteatamel/"
+        "link": "https://twitter.com/BorisFarber/"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/in/borisfarber/"
       }
     ]
   },
@@ -59,65 +72,85 @@
     "id": 3,
     "featured": false,
     "name": "Ataul Munim",
-    "title": "",
-    "company": "Google",
-    "companyLogo": "/images/logos/google.svg",
-    "country": "London, United Kingdom",
-    "photoUrl": "/images/people/mete_atamel.jpg",
-    "shortBio": "",
-    "bio": "",
+    "title": "Android Developer",
+    "company": "Novoda",
+    "companyLogo": "/images/logos/novoda.svg",
+    "photoUrl": "/images/people/ataulm.jpg",
+    "shortBio": "Ataul Munim has been a professional Android developer for three years, currently working at Novoda London.",
+    "bio": "Ataul Munim has been a professional Android developer for three years, currently working at Novoda London. Ataul's work on UX for visually impaired users on the Android platform was recognised with a Google Developer Expert badge in early 2016 and he's currently interested in automated testing for accessibility features.",
     "tags": [
-      ""
+      "Android"
+    ],
+    "badges": [
+      {
+        "name": "GDE",
+        "description": "Android Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/ataul-munim"
+      }
     ],
     "socials": [
       {
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/meteatamel/"
+        "link": "https://twitter.com/ataulm/"
+      },
+      {
+        "icon": "website",
+        "name": "Website",
+        "link": "http://ataulm.com/"
+      },
+      {
+        "icon": "linkedin",
+        "name": "LinkedIn",
+        "link": "https://uk.linkedin.com/in/ataulm/"
+      },
+      {
+        "icon": "github",
+        "name": "GitHub",
+        "link": "https://github.com/ataulm/"
       }
     ]
   },
   "4": {
     "id": 4,
-    "featured": false,
+    "featured": true,
     "name": "Umar Hansa",
-    "title": "",
-    "company": "Google",
-    "companyLogo": "/images/logos/google.svg",
-    "country": "London, United Kingdom",
-    "photoUrl": "/images/people/mete_atamel.jpg",
+    "title": "Web Developer",
+    "company": "Shazam",
+    "companyLogo": "/images/logos/shazam.svg",
+    "photoUrl": "/images/people/umar.jpg",
     "shortBio": "",
     "bio": "",
     "tags": [
-      ""
+      "Web"
+    ],
+    "badges": [
+
     ],
     "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/meteatamel/"
-      }
     ]
   },
   "5": {
     "id": 5,
     "featured": false,
     "name": "Sam Thorogood",
-    "title": "",
+    "title": "Developer Programs Engineer",
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
-    "country": "London, United Kingdom",
-    "photoUrl": "/images/people/mete_atamel.jpg",
-    "shortBio": "",
-    "bio": "",
+    "photoUrl": "/images/people/sam.jpg",
+    "shortBio": "Sam is a Developer Programs Engineer at Google, where he makes the web better through standards.",
+    "bio": "Sam is a Developer Programs Engineer at Google, where he makes the web better through standards.",
     "tags": [
-      ""
+      "Web"
+    ],
+    "badges": [
+
     ],
     "socials": [
       {
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/meteatamel/"
+        "link": "https://twitter.com/samthor/"
       }
     ]
   },
@@ -127,10 +160,9 @@
     "name": "Gerard Sans",
     "title": "Technical Evangelist",
     "company": "AngularZone",
-    "companyLogo": "/images/logos/google.svg",
-    "country": "London, United Kingdom",
+    "companyLogo": "/images/logos/angular_zone.jpeg",
     "photoUrl": "/images/people/gerard_sans.jpg",
-    "shortBio": "Angular Google Developer Expert. International speaker and trainer.  Enjoy running AngularLabs London.",
+    "shortBio": "Angular Google Developer Expert. International speaker and trainer. Enjoy running AngularLabs London.",
     "bio": "Angular Google Developer Expert. I am a Computer Science Engineer specialised in Web. International speaker and trainer. I am an Angular fanboy and a community activist fighting for the JavaScript revolution. I have lived and worked for all sorts of companies in Germany, Brazil, UK and Spain. I am always up for a good challenge. I enjoy running AngularLabs London, mentoring students, participating in the community, giving talks and writing technical articles at Medium.",
     "tags": [
       "Web",
@@ -161,66 +193,57 @@
     "id": 7,
     "featured": false,
     "name": "Robert Kubis",
-    "title": "",
+    "title": "Google Cloud Developer Advocate",
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
-    "country": "London, United Kingdom",
-    "photoUrl": "/images/people/mete_atamel.jpg",
+    "photoUrl": "/images/people/robert.jpg",
     "shortBio": "",
     "bio": "",
     "tags": [
-      ""
+      "Cloud"
+    ],
+    "badges": [
+
     ],
     "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/meteatamel/"
-      }
     ]
   },
   "8": {
     "id": 8,
-    "featured": false,
+    "featured": true,
     "name": "Phil Nash",
-    "title": "",
-    "company": "Google",
-    "companyLogo": "/images/logos/google.svg",
-    "country": "London, United Kingdom",
-    "photoUrl": "/images/people/mete_atamel.jpg",
+    "title": "Developer Evangelist",
+    "company": "Twilio",
+    "companyLogo": "/images/logos/twilio.svg",
+    "photoUrl": "/images/people/phil.jpg",
     "shortBio": "",
     "bio": "",
     "tags": [
-      ""
+      "Web"
+    ],
+    "badges": [
+
     ],
     "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/meteatamel/"
-      }
     ]
   },
   "9": {
     "id": 9,
-    "featured": false,
+    "featured": true,
     "name": "Mario Viviani",
-    "title": "",
+    "title": "Technology Evangelist",
     "company": "Amazon",
-    "companyLogo": "/images/logos/google.svg",
-    "country": "London, United Kingdom",
-    "photoUrl": "/images/people/mete_atamel.jpg",
+    "companyLogo": "/images/logos/amazon_co_uk.svg",
+    "photoUrl": "/images/people/mario.jpg",
     "shortBio": "",
     "bio": "",
     "tags": [
-      ""
+      "Android"
+    ],
+    "badges": [
+
     ],
     "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/meteatamel/"
-      }
     ]
   },
   "10": {
@@ -228,21 +251,18 @@
     "featured": false,
     "name": "Gustav Maskowitz",
     "title": "",
-    "company": "Google",
-    "companyLogo": "/images/logos/google.svg",
-    "country": "London, United Kingdom",
-    "photoUrl": "/images/people/mete_atamel.jpg",
+    "company": "",
+    "companyLogo": "",
+    "photoUrl": "",
     "shortBio": "",
     "bio": "",
     "tags": [
-      ""
+      "Cloud"
+    ],
+    "badges": [
+
     ],
     "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/meteatamel/"
-      }
     ]
   },
   "11": {
@@ -250,64 +270,65 @@
     "featured": false,
     "name": "Ernesto Jiméne",
     "title": "",
-    "company": "Google",
-    "companyLogo": "/images/logos/google.svg",
-    "country": "London, United Kingdom",
-    "photoUrl": "/images/people/mete_atamel.jpg",
+    "company": "",
+    "companyLogo": "",
+    "photoUrl": "",
     "shortBio": "",
     "bio": "",
     "tags": [
-      ""
+      "Cloud"
+    ],
+    "badges": [
+
     ],
     "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/meteatamel/"
-      }
     ]
   },
   "12": {
     "id": 12,
     "featured": false,
-    "name": "TBC",
+    "name": "Luiz Gustavo Martins",
     "title": "",
-    "company": "Google",
-    "companyLogo": "/images/logos/google.svg",
-    "country": "London, United Kingdom",
-    "photoUrl": "/images/people/mete_atamel.jpg",
+    "company": "",
+    "companyLogo": "",
+    "photoUrl": "",
     "shortBio": "",
     "bio": "",
     "tags": [
-      ""
+      "Android"
+    ],
+    "badges": [
+
     ],
     "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/meteatamel/"
-      }
     ]
   },
   "13": {
     "id": 13,
     "featured": false,
     "name": "Sharif Salah",
-    "title": "",
+    "title": "Google Cloud Platform Program Manager",
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
-    "country": "London, United Kingdom",
-    "photoUrl": "/images/people/mete_atamel.jpg",
-    "shortBio": "",
-    "bio": "",
+    "photoUrl": "/images/people/sharif.jpg",
+    "shortBio": "Sharif is program manager on the Google Cloud Platform training team. In this role, he focuses on creating and maintaing content for technical training courses.",
+    "bio": "Sharif is program manager on the Google Cloud Platform training team. In this role, he focuses on creating and maintaing content for technical training courses.",
     "tags": [
-      ""
+      "Android"
+    ],
+    "badges": [
+
     ],
     "socials": [
       {
         "icon": "twitter",
         "name": "Twitter",
-        "link": "https://twitter.com/meteatamel/"
+        "link": "https://twitter.com/sharif_salah"
+      },
+      {
+        "icon": "gplus",
+        "name": "Google+",
+        "link": "https://plus.google.com/103057053147910473099"
       }
     ]
   },
@@ -318,19 +339,16 @@
     "title": "Develper Program Manager UK & Ireland",
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
-    "country": "London, United Kingdom",
-    "photoUrl": "/images/people/mete_atamel.jpg",
+    "photoUrl": "/images/people/rupert.jpg",
     "shortBio": "",
     "bio": "",
     "tags": [
-      ""
+
+    ],
+    "badges": [
+
     ],
     "socials": [
-      {
-        "icon": "twitter",
-        "name": "Twitter",
-        "link": "https://twitter.com/meteatamel/"
-      }
     ]
   }
 }

@@ -21,26 +21,22 @@
     "id": 111,
     "title": "Kick off",
     "description": "",
-    "language": "English",
     "speakers": [
       14
     ]
   },
-  "111": {
+  "112": {
     "id": 112,
     "title": "Wrap up",
     "description": "",
-    "language": "English",
     "speakers": [
       14
     ]
   },
   "201": {
     "id": 201,
-    "title": "AMP (Accelerated Mobile Pages)",
-    "description": "",
-    "language": "English",
-    "complexity": "Beginner",
+    "title": "Intro to AMP (Accelerated Mobile Pages)",
+    "description": "AMP HTML is a way to build web pages for static content that render with reliable, fast performance. It is our attempt at fixing what many perceive as painfully slow page load times – especially when reading content on the mobile web.\n\nIn this talk we are going to learn what is AMP and why AMP might be a good solution for you.",
     "speakers": [
       2
     ],
@@ -52,8 +48,6 @@
     "id": 202,
     "title": "TBCTooling?",
     "description": "",
-    "language": "English",
-    "complexity": "Intermediate",
     "speakers": [
       4
     ],
@@ -63,10 +57,8 @@
   },
   "203": {
     "id": 203,
-    "title": "Putting the Progressive in Progressive Web Apps",
-    "description": "",
-    "language": "English",
-    "complexity": "Intermediate",
+    "title": "Putting the P in Progressive Web Apps",
+    "description": "Progressive Web Apps should work everywhere for every user. But what happens when the technology and APIs are not available for your users? In this talk we will show you how you can think about and build sites that work everywhere.",
     "speakers": [
       5
     ],
@@ -78,8 +70,6 @@
     "id": 204,
     "title": "Thinking Offline",
     "description": "",
-    "language": "English",
-    "complexity": "Beginner",
     "speakers": [
       8
     ],
@@ -89,10 +79,8 @@
   },
   "205": {
     "id": 205,
-    "title": "TBC",
-    "description": "",
-    "language": "English",
-    "complexity": "Beginner",
+    "title": "The amazing Angular 2 Router",
+    "description": "Angular 2 comes with a new router. We will review its main features and show how we can use navigation guards, secure sections, use nested routes and do lazy load while quickly building a prototype for a very special client!",
     "speakers": [
       6
     ],
@@ -102,10 +90,8 @@
   },
   "301": {
     "id": 301,
-    "title": "Accessibility on Mobile",
-    "description": "",
-    "language": "English",
-    "complexity": "Beginner",
+    "title": "Android is for one user",
+    "description": "An overview describing what accessibility means and how to develop an Android app for as many individual users as you can. We cover common design patterns in Android, discussing what function they serve and understanding when and why to substitute them for alternative interfaces. A working code example is provided, showing these principles in action, and demonstrating workflows which can be used to build accessible apps.",
     "speakers": [
       3
     ],
@@ -115,23 +101,8 @@
   },
   "302": {
     "id": 302,
-    "title": "A beginners guide to machine learning for mobile developers",
-    "description": "",
-    "language": "English",
-    "complexity": "Beginner",
-    "speakers": [
-      13
-    ],
-    "tags": [
-      "Android"
-    ]
-  },
-  "303": {
-    "id": 303,
-    "title": "Android APK analysis",
-    "description": "",
-    "language": "English",
-    "complexity": "Beginner",
+    "title": "ClassyShark - APK analysis with ClassyShark",
+    "description": "https://github.com/google/android-classyshark. I am Boris Farber, Developer Advocate at Google, focusing on Android data intensive apps. I want to show how using ClassyShark you can analyse and troubleshoot the most painful problems around runtime failures.\n\nObfuscation\nDependencies\nMultidex\nNative code",
     "speakers": [
       2
     ],
@@ -139,14 +110,23 @@
       "Android"
     ]
   },
+  "303": {
+    "id": 303,
+    "title": "CodeLab: Firebase",
+    "description": "",
+    "speakers": [
+      12
+    ],
+    "tags": [
+      "Android"
+    ]
+  },
   "304": {
     "id": 304,
-    "title": "TBC",
-    "description": "",
-    "language": "English",
-    "complexity": "Beginner",
+    "title": "A beginners guide to machine learning for mobile developers",
+    "description": "This introductory talk provides an overview of machine learning, followed by demos of some of the technologies that can be used to implement machine learning related features in mobile applications. The talk also includes a brief case study of a sample application to demonstrate how different tools can be applied to implement machine learning related features in a mobile application.",
     "speakers": [
-      9
+      13
     ],
     "tags": [
       "Android"
@@ -156,10 +136,8 @@
     "id": 305,
     "title": "TBC",
     "description": "",
-    "language": "English",
-    "complexity": "Beginner",
     "speakers": [
-      12
+      9
     ],
     "tags": [
       "Android"
@@ -169,8 +147,6 @@
     "id": 401,
     "title": "Building Node.js Applications on GCP",
     "description": "",
-    "language": "English",
-    "complexity": "Beginner",
     "speakers": [
       1
     ],
@@ -182,15 +158,14 @@
     "id": 402,
     "title": "Hackathon Demo",
     "description": "",
-    "language": "English",
-    "complexity": "Beginner",
+    "tags": [
+      "Cloud"
+    ]
   },
   "403": {
     "id": 403,
     "title": "TBC",
     "description": "",
-    "language": "English",
-    "complexity": "Beginner",
     "speakers": [
       7
     ],
@@ -202,8 +177,6 @@
     "id": 404,
     "title": "TBC",
     "description": "",
-    "language": "English",
-    "complexity": "Beginner",
     "speakers": [
       10
     ],
@@ -211,12 +184,10 @@
       "Cloud"
     ]
   },
-  "401": {
-    "id": 401,
+  "405": {
+    "id": 405,
     "title": "Go",
     "description": "",
-    "language": "English",
-    "complexity": "Beginner",
     "speakers": [
       11
     ],

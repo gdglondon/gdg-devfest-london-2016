@@ -4,13 +4,13 @@
     "logos": [
       {
         "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
+        "url": "https://www.google.co.uk/",
         "logoUrl": "../images/logos/google.svg"
       },
       {
-        "name": "GDG London",
-        "url": "https://github.com/gdg-x",
-        "logoUrl": "../images/logos/google.svg"
+        "name": "Campus London",
+        "url": "https://www.campus.co/london",
+        "logoUrl": "../images/logos/campus_london.png"
       }
     ]
   }

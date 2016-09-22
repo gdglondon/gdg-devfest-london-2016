@@ -1,28 +1,41 @@
-[{
+[
+  {
     "date": "2016-08-10",
     "dateReadable": "8 October",
-    "tracks": [{
-        "title": "Web Track"
-    }, {
-        "title": "Android Track"
-    }, {
-        "title": "Cloud Track"
-    }],
-    "timeslots": [{
+    "tracks": [
+        {
+          "title": "Room 1"
+        }, {
+          "title": "Room 2"
+        }, {
+          "title": "Room 3"
+        }
+      ],
+    "timeslots": [
+      {
         "startTime": "09:30",
         "endTime": "10:15",
+        "track":  {
+          "title": "Cafe"
+        },
         "sessions": [
             [101]
         ]
     }, {
         "startTime": "10:15",
         "endTime": "10:45",
+        "track":  {
+          "title": "Room 2"
+        },
         "sessions": [
             [111]
         ]
     }, {
         "startTime": "10:45",
         "endTime": "11:00",
+        "track":  {
+          "title": "Cafe"
+        },
         "sessions": [
             [102]
         ]
@@ -30,13 +43,16 @@
         "startTime": "11:00",
         "endTime": "11:45",
         "sessions": [
-            [101],
             [201],
-            [301]
+            [301],
+            [401]
         ]
     }, {
         "startTime": "11:45",
         "endTime": "12:00",
+        "track":  {
+          "title": "Cafe"
+        },
         "sessions": [
             [102]
         ]
@@ -44,13 +60,16 @@
         "startTime": "12:00",
         "endTime": "12:45",
         "sessions": [
-            [102],
             [202],
-            [302]
+            [302],
+            [402]
         ]
     }, {
         "startTime": "12:45",
         "endTime": "14:00",
+        "track":  {
+          "title": "Cafe"
+        },
         "sessions": [
             [103]
         ]
@@ -58,13 +77,16 @@
         "startTime": "14:00",
         "endTime": "14:45",
         "sessions": [
-            [103],
             [203],
-            [303]
+            [303],
+            [403]
         ]
     }, {
         "startTime": "14:45",
         "endTime": "15:00",
+        "track":  {
+          "title": "Cafe"
+        },
         "sessions": [
             [102]
         ]
@@ -72,13 +94,16 @@
         "startTime": "15:00",
         "endTime": "15:45",
         "sessions": [
-            [104],
             [204],
-            [304]
+            [304],
+            [404]
         ]
     }, {
         "startTime": "15:45",
         "endTime": "16:00",
+        "track":  {
+          "title": "Cafe"
+        },
         "sessions": [
             [102]
         ]
@@ -86,15 +111,20 @@
         "startTime": "16:00",
         "endTime": "16:45",
         "sessions": [
-            [105],
             [205],
-            [305]
+            [305],
+            [405]
         ]
     }, {
-        "startTime": "16:45",
-        "endTime": "17:00",
+        "startTime": "17:00",
+        "endTime": "17:30",
+        "track":  {
+          "title": "Room 2"
+        },
         "sessions": [
             [112]
         ]
-    }]
-}]
+    }
+  ]
+  }
+]
