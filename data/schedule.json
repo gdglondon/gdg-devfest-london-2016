@@ -116,10 +116,10 @@
             [405]
         ]
     }, {
-        "startTime": "17:00",
-        "endTime": "17:30",
+        "startTime": "16:45",
+        "endTime": "18:00",
         "track":  {
-          "title": "Room 2"
+          "title": "Cafe"
         },
         "sessions": [
             [112]

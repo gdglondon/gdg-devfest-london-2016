@@ -70,7 +70,7 @@
   },
   "3": {
     "id": 3,
-    "featured": false,
+    "featured": true,
     "name": "Ataul Munim",
     "title": "Android Developer",
     "company": "Novoda",
@@ -109,25 +109,6 @@
         "name": "GitHub",
         "link": "https://github.com/ataulm/"
       }
-    ]
-  },
-  "4": {
-    "id": 4,
-    "featured": true,
-    "name": "Umar Hansa",
-    "title": "Web Developer",
-    "company": "Shazam",
-    "companyLogo": "/images/logos/shazam.svg",
-    "photoUrl": "/images/people/umar.jpg",
-    "shortBio": "",
-    "bio": "",
-    "tags": [
-      "Web"
-    ],
-    "badges": [
-
-    ],
-    "socials": [
     ]
   },
   "5": {
@@ -183,8 +164,8 @@
         "link": "https://twitter.com/gerardsans"
       },
       {
-        "icon": "website",
-        "name": "Website",
+        "icon": "medium",
+        "name": "Medium",
         "link": "https://medium.com/@gerard.sans"
       }
     ]
@@ -197,8 +178,8 @@
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
     "photoUrl": "/images/people/robert.jpg",
-    "shortBio": "",
-    "bio": "",
+    "shortBio": "Robert Kubis is a developer advocate for the Google Cloud Platform based in London, UK, specializing in container, storage, and scalable technologies",
+    "bio": "Robert Kubis is a developer advocate for the Google Cloud Platform based in London, UK, specializing in container, storage, and scalable technologies. Before joining Google, Robert collected over 10 years of experience in software development and architecture. He has driven multiple full-stack application developments at SAP with a passion for distributed systems, containers, databases, and performance optimization. In his spare time he enjoys following tech trends and good restaurants, traveling, and improving his photography skills.",
     "tags": [
       "Cloud"
     ],
@@ -206,6 +187,21 @@
 
     ],
     "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/kubisrobert",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/hostirosti",
+        "name": "Twitter"
+      },
+      {
+        "icon": "medium",
+        "link": "http://medium.com/@hostirosti",
+        "name": "Medium"
+      }
     ]
   },
   "8": {
@@ -244,6 +240,21 @@
 
     ],
     "socials": [
+      {
+        "icon": "linkedin",
+        "link": "https://uk.linkedin.com/in/marioviviani",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/mariuxtheone",
+        "name": "Twitter"
+      },
+      {
+        "icon": "gplus",
+        "link": "https://plus.google.com/+MarioViviani",
+        "name": "Google+"
+      }
     ]
   },
   "10": {

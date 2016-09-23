@@ -46,10 +46,10 @@
   },
   "202": {
     "id": 202,
-    "title": "TBCTooling?",
-    "description": "",
+    "title": "Putting the P in Progressive Web Apps",
+    "description": "Progressive Web Apps should work everywhere for every user. But what happens when the technology and APIs are not available for your users? In this talk we will show you how you can think about and build sites that work everywhere.",
     "speakers": [
-      4
+      5
     ],
     "tags": [
       "Web"
@@ -57,8 +57,8 @@
   },
   "203": {
     "id": 203,
-    "title": "Putting the P in Progressive Web Apps",
-    "description": "Progressive Web Apps should work everywhere for every user. But what happens when the technology and APIs are not available for your users? In this talk we will show you how you can think about and build sites that work everywhere.",
+    "title": "TBC",
+    "description": "",
     "speakers": [
       5
     ],
@@ -102,7 +102,7 @@
   "302": {
     "id": 302,
     "title": "ClassyShark - APK analysis with ClassyShark",
-    "description": "https://github.com/google/android-classyshark. I am Boris Farber, Developer Advocate at Google, focusing on Android data intensive apps. I want to show how using ClassyShark you can analyse and troubleshoot the most painful problems around runtime failures.\n\nObfuscation\nDependencies\nMultidex\nNative code",
+    "description": "https://github.com/google/android-classyshark. I am Boris Farber, Developer Advocate at Google, focusing on Android data intensive apps. I want to show how using ClassyShark you can analyse and troubleshoot the most painful problems around runtime failures.\n\nObfuscation, Dependencies, Multidex, Native code",
     "speakers": [
       2
     ],
@@ -164,8 +164,8 @@
   },
   "403": {
     "id": 403,
-    "title": "TBC",
-    "description": "",
+    "title": "Improve your App UX with one model processing insights from logs (batch) and real-time activity streams",
+    "description": "In this talk you will learn about Apache Beam (incubating). A project that came out of more than 10 years of experience with big data processing at Google. We will show you how you can improve your Apps, Web or Mobile by capturing and processing data from batch and streams in one model and run it on Google's managed Dataflow service. In this talk we'll demonstrate Dataflow’s capabilities through a real-time demo with practical insights on how to manage and visualize streams of data.",
     "speakers": [
       7
     ],
