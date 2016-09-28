@@ -3,24 +3,30 @@
     "id": 101,
     "title": "Registration",
     "description": "Arrival / Registration / Breakfast",
-    "image": "/images/backgrounds/opening.jpg"
+    "image": "/images/backgrounds/registration.jpg"
   },
   "102": {
     "id": 102,
     "title": "Coffee break",
-    "description": "",
+    "description": "Refresh yourself with a coffee for the next session!",
     "image": "/images/backgrounds/coffee-break.jpg"
   },
   "103": {
     "id": 103,
     "title": "Lunch",
-    "description": "",
+    "description": "Great opportunity for networking and recharging yourself.",
     "image": "/images/backgrounds/lunch.jpg"
+  },
+  "104": {
+    "id": 104,
+    "title": "Networking and Drinks",
+    "description": "Relaxing after a great day with drinks and networking with other passionate developers.",
+    "image": "/images/backgrounds/drinks.jpg"
   },
   "111": {
     "id": 111,
     "title": "Kick off",
-    "description": "",
+    "description": "Official start of the conference. Greetings from the organizers.",
     "speakers": [
       14
     ]
@@ -28,7 +34,7 @@
   "112": {
     "id": 112,
     "title": "Wrap up",
-    "description": "",
+    "description": "End of the conference, beginning of the networking and drinks.",
     "speakers": [
       14
     ]
@@ -57,8 +63,8 @@
   },
   "203": {
     "id": 203,
-    "title": "TBC",
-    "description": "",
+    "title": "Migrate To Progressive Web Apps",
+    "description": "This Codelab will teach you how to rapidly migrate an existing, desktop-only site to a Progressive Web App to support amazing new web features like install, push and offline.",
     "speakers": [
       5
     ],
@@ -69,7 +75,7 @@
   "204": {
     "id": 204,
     "title": "Thinking Offline",
-    "description": "",
+    "description": "Building a progressively enhanced, offline capable web app requires a different way of thinking. We'll look at building an app offline first and see what lessons we can learn.",
     "speakers": [
       8
     ],
@@ -90,10 +96,10 @@
   },
   "301": {
     "id": 301,
-    "title": "Android is for one user",
-    "description": "An overview describing what accessibility means and how to develop an Android app for as many individual users as you can. We cover common design patterns in Android, discussing what function they serve and understanding when and why to substitute them for alternative interfaces. A working code example is provided, showing these principles in action, and demonstrating workflows which can be used to build accessible apps.",
+    "title": "Developing Media Streaming Apps for TV the Easiest Way",
+    "description": "Android development is not just about mobile devices anymore, it scaled up from mobile devices to the TV screen. Developers have now the occasion to start building for a brand new use case: the 10-foot experience. In this session, we cover what's needed to bring your Android app to the living room: we’ll dive into all the tools required to create high performing Media Streaming apps and understand how to take advantage of the big TV screen while using new UI/UX patterns and how to run your first Android App for TV on Amazon Fire TV.",
     "speakers": [
-      3
+      9
     ],
     "tags": [
       "Android"
@@ -112,8 +118,8 @@
   },
   "303": {
     "id": 303,
-    "title": "CodeLab: Firebase",
-    "description": "",
+    "title": "Firebase Overview",
+    "description": "Firebase -- 15 technologies that will help you Develop, Grow and Earn from your mobile apps, and an Analytics product that can be used to bring them all together.",
     "speakers": [
       12
     ],
@@ -134,10 +140,10 @@
   },
   "305": {
     "id": 305,
-    "title": "TBC",
-    "description": "",
+    "title": "Android is for one user",
+    "description": "An overview describing what accessibility means and how to develop an Android app for as many individual users as you can. We cover common design patterns in Android, discussing what function they serve and understanding when and why to substitute them for alternative interfaces. A working code example is provided, showing these principles in action, and demonstrating workflows which can be used to build accessible apps.",
     "speakers": [
-      9
+      3
     ],
     "tags": [
       "Android"

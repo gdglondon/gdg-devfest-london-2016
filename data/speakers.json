@@ -212,8 +212,8 @@
     "company": "Twilio",
     "companyLogo": "/images/logos/twilio.svg",
     "photoUrl": "/images/people/phil.jpg",
-    "shortBio": "",
-    "bio": "",
+    "shortBio": "Phil is a developer evangelist for Twilio serving developer communities in London and all over the world.",
+    "bio": "Phil is a developer evangelist for Twilio serving developer communities in London and all over the world. He is a Ruby, JavaScript and Swift developer, Google Developer Expert, blogger, speaker and occasionally a brewer. He can be found hanging out at meetups and conferences, playing with new technologies and APIs or writing open source code.",
     "tags": [
       "Web"
     ],
@@ -221,6 +221,26 @@
 
     ],
     "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/philnash",
+        "name": "Twitter"
+      },
+      {
+        "icon": "medium",
+        "link": "https://philna.sh/",
+        "name": "Medium"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/philnash",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/philnash",
+        "name": "GitHub"
+      }
     ]
   },
   "9": {
@@ -231,8 +251,8 @@
     "company": "Amazon",
     "companyLogo": "/images/logos/amazon_co_uk.svg",
     "photoUrl": "/images/people/mario.jpg",
-    "shortBio": "",
-    "bio": "",
+    "shortBio": "Mario Viviani is Technology Evangelist at Amazon Appstore UK. He was previously awarded the Google Developer Expert title for Android by Google and has spoken at worldwide events.",
+    "bio": "Mario Viviani is Technology Evangelist at Amazon Appstore UK. He started mobile development in 2010, focusing on the Android platform. In 2011 he founded the mobile-focused startup Mariux Apps, developing both consumer-oriented and third-party apps, where he published more than 90 apps and reached more than 12 million total downloads. In 2013 he was awarded by Google of the Google Developer Expert title for Android, and has spoken at worldwide events including Droidcon, Android Developer Days, TEDx and Google I/O. Mario has also been an active part of the startup community. In 2015 he joined Amazon, where as Technology Evangelist he engages with the developer community and companies, presents Amazon newest technologies and ensures mobile app developers are up-to-date on Amazon devices and services.",
     "tags": [
       "Android"
     ],
@@ -240,11 +260,6 @@
 
     ],
     "socials": [
-      {
-        "icon": "linkedin",
-        "link": "https://uk.linkedin.com/in/marioviviani",
-        "name": "LinkedIn"
-      },
       {
         "icon": "twitter",
         "link": "https://twitter.com/mariuxtheone",
@@ -254,6 +269,11 @@
         "icon": "gplus",
         "link": "https://plus.google.com/+MarioViviani",
         "name": "Google+"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://uk.linkedin.com/in/marioviviani",
+        "name": "LinkedIn"
       }
     ]
   },
@@ -279,7 +299,7 @@
   "11": {
     "id": 11,
     "featured": false,
-    "name": "Ernesto Jiméne",
+    "name": "Ernesto Jiménez",
     "title": "",
     "company": "",
     "companyLogo": "",
@@ -299,12 +319,12 @@
     "id": 12,
     "featured": false,
     "name": "Luiz Gustavo Martins",
-    "title": "",
-    "company": "",
-    "companyLogo": "",
-    "photoUrl": "",
-    "shortBio": "",
-    "bio": "",
+    "title": "Developer Advocate",
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "photoUrl": "/images/people/gus.jpg",
+    "shortBio": "Gus is a Developer Advocate that helps Google's Partner's apps quality.",
+    "bio": "Gus is a Developer Advocate that helps Google's Partner's apps quality. His areas of interest are Firebase and Fitness Apps.",
     "tags": [
       "Android"
     ],
@@ -312,6 +332,11 @@
 
     ],
     "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/gusthema"
+      }
     ]
   },
   "13": {
@@ -351,15 +376,25 @@
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
     "photoUrl": "/images/people/rupert.jpg",
-    "shortBio": "",
-    "bio": "",
+    "shortBio": "Rupert is Developer Relations regional lead for the UK and Ireland at Google.",
+    "bio": "Rupert is Developer Relations regional lead for the UK and Ireland at Google. He looks after the Google Developer Groups, Experts and agency programs and helps developers be more successful with Google technologies. Prior to Google, Rupert worked at Nokia and Symbian.",
     "tags": [
-
+      "Community"
     ],
     "badges": [
 
     ],
     "socials": [
+      {
+        "icon": "twitter",
+        "name": "Twitter",
+        "link": "https://twitter.com/rupertwhitehead"
+      },
+      {
+        "icon": "gplus",
+        "name": "Google+",
+        "link": "https://plus.google.com/+RupertWhitehead"
+      }
     ]
   }
 }

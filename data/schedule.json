@@ -4,11 +4,11 @@
     "dateReadable": "8 October",
     "tracks": [
         {
-          "title": "Room 1"
+          "title": "3rd Floor - Project Space"
         }, {
-          "title": "Room 2"
+          "title": "Ground Floor"
         }, {
-          "title": "Room 3"
+          "title": "3rd Floor - Event space"
         }
       ],
     "timeslots": [
@@ -16,7 +16,7 @@
         "startTime": "09:30",
         "endTime": "10:15",
         "track":  {
-          "title": "Cafe"
+          "title": "Campus Cafe"
         },
         "sessions": [
             [101]
@@ -25,7 +25,7 @@
         "startTime": "10:15",
         "endTime": "10:45",
         "track":  {
-          "title": "Room 2"
+          "title": "Ground Floor and 3rd Floor - Event space"
         },
         "sessions": [
             [111]
@@ -34,7 +34,7 @@
         "startTime": "10:45",
         "endTime": "11:00",
         "track":  {
-          "title": "Cafe"
+          "title": "Campus Cafe"
         },
         "sessions": [
             [102]
@@ -51,7 +51,7 @@
         "startTime": "11:45",
         "endTime": "12:00",
         "track":  {
-          "title": "Cafe"
+          "title": "Campus Cafe"
         },
         "sessions": [
             [102]
@@ -68,7 +68,7 @@
         "startTime": "12:45",
         "endTime": "14:00",
         "track":  {
-          "title": "Cafe"
+          "title": "Campus Cafe"
         },
         "sessions": [
             [103]
@@ -85,7 +85,7 @@
         "startTime": "14:45",
         "endTime": "15:00",
         "track":  {
-          "title": "Cafe"
+          "title": "Campus Cafe"
         },
         "sessions": [
             [102]
@@ -102,7 +102,7 @@
         "startTime": "15:45",
         "endTime": "16:00",
         "track":  {
-          "title": "Cafe"
+          "title": "Campus Cafe"
         },
         "sessions": [
             [102]
@@ -117,12 +117,21 @@
         ]
     }, {
         "startTime": "16:45",
-        "endTime": "18:00",
+        "endTime": "17:00",
         "track":  {
-          "title": "Cafe"
+          "title": "Ground Floor and 3rd Floor - Event space"
         },
         "sessions": [
             [112]
+        ]
+    }, {
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "track":  {
+          "title": "Campus Cafe"
+        },
+        "sessions": [
+            [104]
         ]
     }
   ]
