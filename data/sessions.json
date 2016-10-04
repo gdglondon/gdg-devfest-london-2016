@@ -162,8 +162,11 @@
   },
   "402": {
     "id": 402,
-    "title": "Hackathon Demo",
-    "description": "",
+    "title": "TensorFlow for Poets codelab",
+    "description": "TensorFlow is a an open source library for numerical computation, specializing in machine learning applications. In this codelab, you will learn how to install and run TensorFlow on a single machine, and will train a simple classifier to classify images of flowers.",
+    "speakers": [
+      10, 13
+    ],
     "tags": [
       "Cloud"
     ]
@@ -181,19 +184,16 @@
   },
   "404": {
     "id": 404,
-    "title": "TBC",
+    "title": "Hackathon Demo",
     "description": "",
-    "speakers": [
-      10
-    ],
     "tags": [
       "Cloud"
     ]
   },
   "405": {
     "id": 405,
-    "title": "Go",
-    "description": "",
+    "title": "Learning Go - Build your first Slack app using Go and App Engine",
+    "description": "Are you curious about Go? In this talk, we will see how easy it is to create a simple Slack app with Go and deploy it using App Engine.",
     "speakers": [
       11
     ],

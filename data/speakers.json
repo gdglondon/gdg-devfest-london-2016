@@ -3,12 +3,12 @@
     "id": 1,
     "featured": true,
     "name": "Mandy Waite",
-    "title": "",
+    "title": "Developer Advocate",
     "company": "Google",
     "companyLogo": "/images/logos/google.svg",
     "photoUrl": "/images/people/mandy.jpg",
-    "shortBio": "",
-    "bio": "",
+    "shortBio": "Based in London, UK, Mandy is a Developer Advocate at Google specializing in Cloud technologies.",
+    "bio": "Based in London, UK, Mandy is a Developer Advocate at Google specializing in Cloud technologies. One of her main aims in life is to make the world a better place for developers building applications for the Cloud. In the past year she has presented Cloud Technologies at over 30 events, including Google I/O 2014, two Cloud Developer Platform Roadshow tours and large developer events such as JFokus, Devoxx and Velocity. In her spare time Mandy is learning Japanese and likes to play the guitar.",
     "tags": [
       "Cloud"
     ],
@@ -280,13 +280,13 @@
   "10": {
     "id": 10,
     "featured": false,
-    "name": "Gustav Maskowitz",
-    "title": "",
-    "company": "",
-    "companyLogo": "",
-    "photoUrl": "",
-    "shortBio": "",
-    "bio": "",
+    "name": "Nick Birnie",
+    "title": "Develper Advocate",
+    "company": "Google",
+    "companyLogo": "/images/logos/google.svg",
+    "photoUrl": "/images/people/nick.jpg",
+    "shortBio": "Nick is a Developer Advocate in Google Ads team.",
+    "bio": "Nick is a Developer Advocate in Google Ads team. He is a computer scientist, AI practitioner, and builder of things. Nick has an MSc in Artificial Intelligence from Edinburgh where he had a particular focus on computer vision. Prior to Google, he was a software engineer at Seebyte.",
     "tags": [
       "Cloud"
     ],
@@ -294,25 +294,64 @@
 
     ],
     "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/nwbirnie",
+        "name": "Twitter"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/nick-birnie-0995a758",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "github",
+        "link": "https://github.com/nwbirnie",
+        "name": "GitHub"
+      }
     ]
   },
   "11": {
     "id": 11,
     "featured": false,
     "name": "Ernesto Jiménez",
-    "title": "",
-    "company": "",
-    "companyLogo": "",
-    "photoUrl": "",
-    "shortBio": "",
-    "bio": "",
+    "title": "Co-founder",
+    "company": "slackline.io",
+    "companyLogo": "/images/logos/slackline.svg",
+    "photoUrl": "/images/people/ernesto.jpg",
+    "shortBio": "Ernesto is a combination of engineer and product manager who has worked on different kinds of products, from webapps to APIs and games in both startups and big corporations.",
+    "bio": "Ernesto is a combination of engineer and product manager who has worked on different kinds of products, from webapps to APIs and games in both startups and big corporations. He sees technology as a tool to build great products that solve real problems for customers.\n\nMost recently, he cofounded slackline.io, enabling efficient collaboration between companies. With just a team of two, so far they have bootstrapped their company and hundreds of companies worldwide are relying on their service. He also likes helping other startups focus on using technology to serve real customers.\n\nBased in London, Ernesto spends spare time contributing to open source projects, building small hacks and rock climbing. He is originally from Spain and studied Computer Science in Spain and Finland.",
     "tags": [
       "Cloud"
     ],
     "badges": [
-
+      {
+        "name": "GDE",
+        "description": "Web Technologies Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/ataul-munim"
+      }
     ],
     "socials": [
+      {
+        "icon": "twitter",
+        "link": "https://twitter.com/ernesto_jimenez",
+        "name": "Twitter"
+      },
+      {
+        "icon": "gplus",
+        "link": "https://plus.google.com/+ErnestoJimenezCaballero",
+        "name": "Google+"
+      },
+      {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/ernestojimenez",
+        "name": "LinkedIn"
+      },
+      {
+        "icon": "website",
+        "link": "http://ernesto-jimenez.com/",
+        "name": "Website"
+      }
     ]
   },
   "12": {
