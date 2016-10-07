@@ -53,11 +53,6 @@
         text-align: center;
       }
 
-      .open-photos:hover {
-        opacity: 1;
-        cursor: pointer;
-      }
-
       @media (min-width: 601px) {
         .photo-wrapper {
           height: 500px;
@@ -81,10 +76,7 @@
           sizing="cover"
           preload fade
         ></iron-image>
-        <a class="open-photos" href$="[[app.data.gallery.albumUrl]]" target="_blank" rel="noopener noreferrer">
-          <paper-ripple></paper-ripple>
-          <span>[[localize('click-to-view-photos')]] <iron-icon icon="open-in-new"/></span>
-        </a>
+        <div class="open-photos" rel="noopener noreferrer"></div>
       </div>
       <div class="vertical-block">
         <div class="photo">
@@ -94,10 +86,7 @@
             sizing="cover"
             preload fade
           ></iron-image>
-          <a class="open-photos" href$="[[app.data.gallery.albumUrl]]" target="_blank" rel="noopener noreferrer">
-            <paper-ripple></paper-ripple>
-            <span>[[localize('click-to-view-photos')]] <iron-icon icon="open-in-new"/></span>
-          </a>
+          <div class="open-photos" rel="noopener noreferrer"></div>
         </div>
         <div class="photo">
           <iron-image
@@ -106,10 +95,7 @@
             sizing="cover"
             preload fade
           ></iron-image>
-          <a class="open-photos" href$="[[app.data.gallery.albumUrl]]" target="_blank" rel="noopener noreferrer">
-            <paper-ripple></paper-ripple>
-            <span>[[localize('click-to-view-photos')]] <iron-icon icon="open-in-new"/></span>
-          </a>
+          <div class="open-photos" rel="noopener noreferrer"></div>
         </div>
       </div>
     </div>
